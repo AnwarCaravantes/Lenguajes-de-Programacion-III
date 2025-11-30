@@ -1,0 +1,15 @@
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.AssemblyReference.cache
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad_2.FrmDatosPersonales.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad_2.FrmIngreso.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad_2.FrmMenu.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad_2.FrmOperacionesBasicas.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad_2.FrmSaludo.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad_2.Properties.Resources.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.GenerateResource.cache
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.CoreCompileInputs.cache
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\bin\Debug\Actividad 2.exe.config
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\bin\Debug\Actividad 2.exe
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\bin\Debug\Actividad 2.pdb
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad 2.exe
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad 2.pdb
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 2\Actividad 2\obj\Debug\Actividad 2.exe.config
