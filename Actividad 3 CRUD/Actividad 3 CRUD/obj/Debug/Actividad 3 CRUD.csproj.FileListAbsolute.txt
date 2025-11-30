@@ -1,0 +1,19 @@
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\bin\Debug\Actividad 3 CRUD.exe.config
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\bin\Debug\Actividad 3 CRUD.exe
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\bin\Debug\Actividad 3 CRUD.pdb
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad 3 CRUD.csproj.AssemblyReference.cache
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.Properties.Resources.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad 3 CRUD.csproj.GenerateResource.cache
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad 3 CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad 3 CRUD.exe
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad 3 CRUD.pdb
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad 3 CRUD.exe.config
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.CRUD_Cliente.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.CRUD_Producto.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.CRUD_Proveedor.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.FrmLogin.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.FrmSeleccionCRUD.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.MenuPrincipal.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.Caballeros.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.Damas.resources
+C:\Users\Anwar\Documents\IDS\Lenguajes de Programacion III\Actividad 3 CRUD\Actividad 3 CRUD\obj\Debug\Actividad_3_CRUD.CRUD_Compras.resources
